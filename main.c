@@ -7,6 +7,7 @@
 
 int main(){
     printf("hi Alexis\n");
+    printf("Are you ready louisssssssss\n");
     for(int i=0;i<50;i++){
         printf("%d\n",i);
     }
