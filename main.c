@@ -6,7 +6,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("Are you ready\n");
+    printf("hi Alexis\n");
     for(int i=0;i<50;i++){
         printf("%d\n",i);
     }
